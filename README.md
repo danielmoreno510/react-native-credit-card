@@ -1,3 +1,3 @@
 # react-native-credit-card
 
-![Credit Card](https://giphy.com/embed/IxPySsbtXNdScKpf64)
+![Credit Card](https://media.giphy.com/media/IxPySsbtXNdScKpf64/giphy.gif)
